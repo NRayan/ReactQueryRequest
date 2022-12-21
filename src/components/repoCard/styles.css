@@ -1,0 +1,8 @@
+.repoContainer {
+    padding: 2rem 1rem;
+    background-color: rgba(0, 0, 0, .2);
+    align-self: center;
+    border-radius: 1rem;
+    margin: .3rem;
+    width: 20rem;
+}
